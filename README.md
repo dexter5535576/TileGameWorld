@@ -36,6 +36,8 @@ This project is one of the course projects from Data Structures and Algorithms c
 
 ![at the beginning](img/6.png)
 
+> different seed generates different world
+
 ![at the beginning](img/7.png)
 
 ![at the beginning](img/8.png)
