@@ -12,7 +12,7 @@ This project is one of the course projects from Data Structures and Algorithms c
 ### Description
 - Developed a Tile-based 2D game using Data Structures in Java that generates a random world.
 - Integrated WeightedQuickUnionUF to connect in-game spaces.
-- Designed an main menu and added extra features for better in-game experiences.
+- Designed the main menu and added extra features for better in-game experiences.
 - Gained Software Engineering experience by applying engineering principles to solve problems to complete software projects.
 
 ### Skills to learn
