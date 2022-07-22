@@ -2,7 +2,7 @@
 
 A 2D random world generator and role play open world game.
 ### Preview
-night vision turned off
+> night vision turned off
 ![at the beginning](img/3.png)
 
 ### Motivation
@@ -22,7 +22,7 @@ This project is one of the course projects from Data Structures and Algorithms c
 ![at the beginning](img/1.png)
 ![at the beginning](img/9.png)
 ![at the beginning](img/2.png)
-night vision turned on
+> night vision turned on
 ![at the beginning](img/3.png)
 ![at the beginning](img/4.png)
 ![at the beginning](img/5.png)
