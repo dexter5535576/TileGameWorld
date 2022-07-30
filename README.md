@@ -19,6 +19,7 @@ This project is one of the course projects from Data Structures and Algorithms c
 - Java
 - Software Development
 - Object-Oriented Design
+- Data Structures
 
 ![at the beginning](img/1.png)
 
